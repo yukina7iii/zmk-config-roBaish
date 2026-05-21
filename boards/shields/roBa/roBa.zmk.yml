@@ -1,8 +1,8 @@
 file_format: "1"
-id: roBa
-name: roBa
+id: robaih
+name: robaih
 type: shield
-url: https://github.com/kumamuk-git/zmk-config-roBa
+url: https://github.com/kumamuk-git/zmk-config-robaih
 requires: [seeeduino_xiao_ble]
 features:
   - keys

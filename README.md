@@ -1,3 +1,3 @@
-# zmk-config-roBa
+# zmk-config-robaih
 
-<img src="keymap-drawer/roBa.svg" >
+<img src="keymap-drawer/robaih.svg" >

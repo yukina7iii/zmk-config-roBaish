@@ -1,4 +1,4 @@
-layout: {zmk_keyboard: roBa}
+layout: {zmk_keyboard: robaih}
 layers:
   default:
   - Q

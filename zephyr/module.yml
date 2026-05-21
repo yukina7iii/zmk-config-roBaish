@@ -1,4 +1,4 @@
-name: roBa
+name: robaih
 build:
   settings:
     board_root: .
